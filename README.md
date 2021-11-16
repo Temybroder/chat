@@ -1,2 +1,2 @@
 # chat
-A socket.io, node.js based Live-Chat application
+A Web-sockets, node.js based Live-Chat application
